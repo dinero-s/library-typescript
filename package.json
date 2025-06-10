@@ -1,0 +1,25 @@
+{
+  "name": "library-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --project ./tsconfig.json --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinero-s/library-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dinero-s/library-typescript/issues"
+  },
+  "homepage": "https://github.com/dinero-s/library-typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
